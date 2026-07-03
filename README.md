@@ -61,8 +61,8 @@
 
 ## 📊 Git Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raphhhaaaa&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphhhaaaa&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raphhhaaaa&theme=radical) \
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raphhhaaaa&theme=radical)
 
 #### Atualmente estudando
 
@@ -73,7 +73,7 @@
 #### No que estou trabalhando no momento
 
 [![Projeto Área Acadêmica](https://img.shields.io/badge/Projeto-Área_Acadêmica-2EA44F?style=for-the-badge)](https://github.com/raphhhaaaa/Area_Academica)  
-[![Projeto SIGLattes](https://img.shields.io/badge/Projeto-SIGLattes-0D6EFD?style=for-the-badge)](https://github.com/raphhhaaaa/SIGLattes)
+[![Projeto SIGLattes](https://img.shields.io/badge/Projeto-SIGLattes-0D6EFD?style=for-the-badge)](https://github.com/raphhhaaaa/SIGLattes)  
 
 ## 🎯 Objetivo
 
