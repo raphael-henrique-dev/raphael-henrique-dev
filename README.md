@@ -1,84 +1,86 @@
+## 👋 Olá! Conheça um pouco mais sobre mim:
 
-<div align="center"">
+* 🎓 Engenharia de Software - UEM
+* 💼 Estagiário em Desenvolvimento de Sistemas - PLD/UEM
+* 💻 Desenvolvedor do SIGLattes - Sistema de Gestão e Indicadores de Currículos Lattes
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:8B0000&height=300&section=header&text=Raphael%20Teixeira%20e%20Silva&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20-%20FullStack%20-%20Python%20e%20Java&descAlignY=55&descSize=18" width="100%"/>
+## 🧠 Minha stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2800&pause=900&color=B22222&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Estudante+de+Engenharia+de+Software+%40+UEM" alt="Typing SVG"/>
+#### Core
 
-</div>
+![Desenvolvimento de Software](https://img.shields.io/badge/Desenvolvimento_de_Software-0969DA?style=for-the-badge&logo=codefactor&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=pandas&logoColor=white)
+![Automação](https://img.shields.io/badge/Automação-00A86B?style=for-the-badge&logo=robotframework&logoColor=white)
+
+#### Linguagens
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<br>
+#### APIs
+
+![REST API](https://img.shields.io/badge/REST_API-25A162?style=for-the-badge)
+![SOAP API](https://img.shields.io/badge/SOAP_API-0A66C2?style=for-the-badge)
 
 
-  <div align="center">
-    
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=8B0000)](https://www.linkedin.com/in/raphhhaaaa/)
-  [![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:rhts478@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=8B0000)](https://instagram.com/raphhhaaaa)
-  
-  </div>
+#### Banco de Dados
 
-<br>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 👋 Sobre mim
 
-- 🎓 Engenharia de Software — UEM (4º período)
-- 💼 Estagiário de Desenvolvimento — PLD/UEM
-- 💻 Desenvolvedor do **SIGLattes**, sistema que consolidou +8.000 currículos acadêmicos via integração de APIs REST/SOAP
-- 🧠 Estudando atualmente: Spring Boot, React e Kubernetes
+#### Ferramentas
 
-<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 🧠 Stack
 
-<div align="center">
+#### Frameworks e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,fastapi,flask,spring,react,postgres,mysql,git,docker,linux&theme=dark" />
+![ZK Framework](https://img.shields.io/badge/ZK_Framework-0081CB?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-</div>
 
-<br>
+#### Frontend
 
-### 📊 GitHub Stats
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raphhhaaaa&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=B22222&icon_color=B22222&text_color=E0E0E0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphhhaaaa&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=B22222&text_color=E0E0E0" height="165"/>
+## 📊 Git Stats
 
-</div>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raphhhaaaa&theme=radical) \
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raphhhaaaa&theme=radical)
 
-<br>
+#### Atualmente estudando
 
-### 🐍 Atividade recente
+![Spring Boot](https://img.shields.io/badge/Em_Estudo-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)  
+![React](https://img.shields.io/badge/Em_Estudo-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Kubernetes](https://img.shields.io/badge/Em_Estudo-Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<div align="center">
+#### No que estou trabalhando no momento
 
-<!--START_SECTION:activity-->
-<img src="https://raw.githubusercontent.com/raphhhaaaa/raphhhaaaa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<!--END_SECTION:activity-->
+[![Projeto Área Acadêmica](https://img.shields.io/badge/Projeto-Área_Acadêmica-2EA44F?style=for-the-badge)](https://github.com/raphhhaaaa/Area_Academica)  
+[![Projeto SIGLattes](https://img.shields.io/badge/Projeto-SIGLattes-0D6EFD?style=for-the-badge)](https://github.com/raphhhaaaa/SIGLattes)  
 
-</div>
+## 🎯 Objetivo
 
-<br>
+Atualmente busco oportunidades como **Desenvolvedor FullStack/Backend Junior**, contribuindo para projetos de relevância e entregando valor enquanto continuo evoluindo tecnicamente.
 
-### 🚀 Projetos em destaque
+## 📫 Contate-me
 
-**[Área Acadêmica](https://github.com/raphhhaaaa/Area_Academica)** — automação da consulta de notas/faltas do sistema acadêmico da UEM. Python (Reflex + FastAPI), com Playwright assíncrono fazendo login e scraping em tempo real.
-
-**[SIGLattes](https://github.com/raphhhaaaa/SIGLattes)** — sistema de gestão e indicadores de currículos Lattes, integrando dados do CNPq e Semantic Scholar.
-
-**FreelaOS** — gestão centralizada de oportunidades de freelance com agentes de IA integrados. Python/FastAPI + React/TypeScript.
-
-<br>
-
-<div align="center">
-
-**🎯 Buscando oportunidades como Desenvolvedor FullStack/Backend Júnior**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:0D0D0D&height=100&section=footer" width="100%"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphhhaaaa/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhts478@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raphhhaaaa)
