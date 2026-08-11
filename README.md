@@ -1,3 +1,11 @@
+<div align="center"">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:8B0000&height=200&section=header&text=Raphael%20Henrique%20Teixeira%20e%20Silva&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20/%20FullStack&descAlignY=55&descSize=18" width="100%"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2800&pause=900&color=B22222&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Estudante+de+Engenharia+de+Software+%40+UEM" alt="Typing SVG"/> -->
+
+</div>
+
+
 ## 👋 Olá! Conheça um pouco mais sobre mim:
 
 * 🎓 Engenharia de Software - UEM
