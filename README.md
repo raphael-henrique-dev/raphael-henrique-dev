@@ -10,7 +10,7 @@
 
 * 🎓 Engenharia de Software - UEM
 * 💼 Estagiário em Desenvolvimento de Sistemas - PLD/UEM
-* 💻 Desenvolvedor do SIGLattes - Sistema de Gestão e Indicadores de Currículos Lattes
+* 💻 Desenvolvedor do SIGLattes - Sistema de Indicadores e Gestão de Currículos Lattes
 
 ## 🧠 Minha stack
 
