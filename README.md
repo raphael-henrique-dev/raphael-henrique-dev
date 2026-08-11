@@ -74,14 +74,14 @@
 
 #### Atualmente estudando
 
-![Spring Boot](https://img.shields.io/badge/Em_Estudo-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)  
 ![React](https://img.shields.io/badge/Em_Estudo-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Kubernetes](https://img.shields.io/badge/Em_Estudo-Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 #### No que estou trabalhando no momento
 
 [![Projeto Área Acadêmica](https://img.shields.io/badge/Projeto-Área_Acadêmica-2EA44F?style=for-the-badge)](https://github.com/raphhhaaaa/Area_Academica)  
 [![Projeto SIGLattes](https://img.shields.io/badge/Projeto-SIGLattes-0D6EFD?style=for-the-badge)](https://github.com/raphhhaaaa/SIGLattes)  
+[![Projeto FreelaOS](https://img.shields.io/badge/Projeto-FreelaOS-f44dfc?style=for-the-badge)](https://github.com/raphhhaaaa/FreelaOS) 
 
 ## 🎯 Objetivo
 
