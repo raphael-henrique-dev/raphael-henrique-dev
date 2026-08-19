@@ -69,8 +69,8 @@
 
 ## 📊 Git Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raphhhaaaa&theme=radical) \
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raphhhaaaa&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=raphael-henrique-dev&theme=radical) \
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=raphael-henrique-dev&theme=radical)
 
 #### Atualmente estudando
 
