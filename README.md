@@ -9,7 +9,7 @@
 ## 👋 Olá! Conheça um pouco mais sobre mim:
 
 * 🎓 Engenharia de Software - UEM
-* 💼 Estagiário em Desenvolvimento de Sistemas - PLD/UEM
+* 💼 Estagiário em Consultoria Técnica na TecnoSpeed S/A
 * 💻 Desenvolvedor do SIGLattes - Sistema de Indicadores e Gestão de Currículos Lattes
 
 ## 🧠 Minha stack
